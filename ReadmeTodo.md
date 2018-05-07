@@ -5,3 +5,14 @@ Sometimes I run the prog from an alternate folder.
 
 Usable on ASUS EeePC Seashell lm 17.3 rosa
 
+when stack is not installed my method of installing such that 
+stackSeq.sh
+works, is to execute
+curl -sSL https://get.haskellstack.org/ | sh
+hence the creation of the batch file stackInstall
+
+
+
+
+ 
+
